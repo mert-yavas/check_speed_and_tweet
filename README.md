@@ -1,6 +1,6 @@
 # Speed Checker
 ## Overview
-Hello, I'm Mert, and today marks Day 50 of my "100 Days of Python" challenge. Welcome to the Speed Checker project. In this project, we've developed a Python script that measures internet speed using Speedtest.net and tweets the results to your internet service provider (ISP) if the speed is below the promised values.
+Hello, I'm Mert, and today marks Day 50-51 of my "100 Days of Python" challenge. Welcome to the Speed Checker project. In this project, we've developed a Python script that measures internet speed using Speedtest.net and tweets the results to your internet service provider (ISP) if the speed is below the promised values.
 
 ## Project Description
 The script utilizes Selenium to automate the process of conducting a speed test on Speedtest.net and posting the results on Twitter. It logs into your Twitter account, performs a speed test, and tweets at your ISP if the internet speed falls below the promised values.
